@@ -10,6 +10,13 @@ Este projeto implementa um pipeline completo de Machine Learning, desde a análi
 
 ## 🚀 Início Rápido
 
+## Integrantes da Atividade:
+
+** Maycon Antonio Lopes dos Santos - 01684679
+** Erivelton José Pereira Marcelino - 01682770
+** Victor Santos - 01719259
+
+
 ### Pré-requisitos
 
 - Python 3.8+
